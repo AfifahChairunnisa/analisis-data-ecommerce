@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 product_category_name,product_category_name_english
+=======
+﻿product_category_name,product_category_name_english
+>>>>>>> 3db0023 (Initial commit)
 beleza_saude,health_beauty
 informatica_acessorios,computers_accessories
 automotivo,auto
@@ -69,4 +73,8 @@ flores,flowers
 artes_e_artesanato,arts_and_craftmanship
 fraldas_higiene,diapers_and_hygiene
 fashion_roupa_infanto_juvenil,fashion_childrens_clothes
+<<<<<<< HEAD
 seguros_e_servicos,security_and_services
+=======
+seguros_e_servicos,security_and_services
+>>>>>>> 3db0023 (Initial commit)
