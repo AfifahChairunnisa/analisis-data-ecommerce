@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# analisis-data-ecommerce
-=======
-# coba
->>>>>>> 908bd30 (Initial commit)
-=======
 # Dicoding Collection Dashboard
 ## Setup Environment - Anaconda
 ```
@@ -25,4 +18,3 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
->>>>>>> e5045d8b58a0f156ef53e41336881645e21be401
